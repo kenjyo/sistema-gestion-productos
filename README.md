@@ -33,7 +33,7 @@ Frontend (React) → API REST (Laravel) → Base de datos (MySQL)
 
 ### Clonar el proyecto
 
-git clone https://github.com/usuario/repo.git  
+git clone https://github.com/kenjyo/sistema-gestion-productos.git  
 cd repo  
 
 ---
