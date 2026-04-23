@@ -40,6 +40,8 @@ cd sistema-gestion-productos
 
 ### Backend (Laravel)
 
+cd api-productos 
+
 composer install  
 cp .env.example .env  
 
@@ -60,6 +62,7 @@ php artisan serve
 ### Frontend (React)
 
 cd app-productos  
+
 npm install  
 npm run dev  
 
