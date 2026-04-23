@@ -19,7 +19,7 @@ function TablaProductos({ productos, eliminarProducto }) {
             <tr key={producto.id}>
               <td>{producto.id}</td>
               <td>{producto.nombre}</td>
-              <td>{producto.precio}</td>
+              <td>S/ {producto.precio}</td>
               <td>
                 <Link to={`/productos/editar/${producto.id}`}>
                   <button className="btn btn-edit">Editar</button>
