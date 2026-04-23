@@ -38,6 +38,14 @@ cd sistema-gestion-productos
 
 ---
 
+### Base de datos
+
+Crear una base de datos en MySQL:
+
+- nombre: sistema_productos
+
+---
+
 ### Backend (Laravel)
 
 cd api-productos 
