@@ -108,5 +108,5 @@ npm run dev
 
 ## Autor
 
-Kenjyo Huancahuire  
+Kenjyo Huancahuire Salas
 GitHub: https://github.com/kenjyo/sistema-gestion-productos
